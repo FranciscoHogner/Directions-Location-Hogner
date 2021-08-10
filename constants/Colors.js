@@ -1,0 +1,7 @@
+export default {
+  DARK_GREEN: "#0C1D14",
+  LIGHT_GREEN: "#204627",
+  ACCENT: "#A4B494",
+  LIGTH_PINK: "#7FB800",
+  PEACH_PUFF: "#204628",
+};
